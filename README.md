@@ -20,7 +20,5 @@
 <h2>Contact Information</h2>
 <p>If you'd like to get in touch with me, feel free to reach out through the following channels:</p>
 
-<p>Email: your-email@example.com</p>
-<p>LinkedIn: Raphael Matias</p>
-<p>Twitter: @your-twitter-handle</p>
+<p>Email: raphaelbelnasmatias01@gmail.com</p>
 <p>Thank you for visiting my GitHub profile! I look forward to connecting and collaborating with fellow developers. Let's create something awesome together!</p>
